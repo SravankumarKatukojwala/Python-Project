@@ -1,7 +1,9 @@
 Title :- Turtle game with Python
 
 Description:-
-This Python program uses the turtle module to create a basic game where the player, represented by a turtle on the screen, can move left and right to collect falling stars. 
-The stars move down the screen, and when the player's turtle collides with a star, the star is repositioned randomly, simulating collection. The game runs in a continuous loop,
-updating the screen and providing an ongoing experience. You can customize and expand the code to add features like scoring or obstacles for a more engaging game. 
-The game window remains open until closed by the user.
+This Python code is for a turtle racing game. The user can pick a turtle color to bet on, and the turtles move randomly across the screen. The first turtle to reach the right side wins. If the winning turtle matches the user's bet, they win; otherwise, they lose. The result is displayed in the console, and you can close the window by clicking on it.
+
+
+
+
+
